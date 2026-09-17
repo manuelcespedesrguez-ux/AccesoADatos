@@ -1,4 +1,4 @@
-package PrimerTri;
+package Primer.EjerciciosPOO;
 
 public class MaquinaExpen {
 

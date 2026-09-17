@@ -1,4 +1,4 @@
-package PrimerTri.Repasomodelo;
+package Primer.EjerciciosPOO.Repasomodelo;
 
 public class Mensaje {
    
