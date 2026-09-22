@@ -1,4 +1,4 @@
-package Primer.EjerciciosPOO;
+package EjerciciosPOO;
 
 public class Punto {
     private int x, y;

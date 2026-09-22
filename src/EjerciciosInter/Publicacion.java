@@ -1,0 +1,21 @@
+package EjerciciosInter;
+
+public abstract class Publicacion {
+    private String codigo;
+    private String titulo;
+    private int anoPublicacion;
+
+    public Publicacion(String codigo, String titulo, int anoPublicacion) {
+        this.codigo = codigo;
+        this.titulo = titulo;
+        this.anoPublicacion = anoPublicacion;
+    }
+
+    public int getAnoPublicacion() { return anoPublicacion; }
+    public String getTitulo() { return titulo; }
+
+    @Override
+    public String toString() {
+        return "Código: " + codigo + ", Título: " + titulo + ", Año: " + anoPublicacion;
+    }
+}

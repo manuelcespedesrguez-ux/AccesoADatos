@@ -1,4 +1,4 @@
-package Primer.EjerciciosPOO;
+package EjerciciosPOO;
 
 public class PruebaEmpleado {
     public static void main(String[] args) {

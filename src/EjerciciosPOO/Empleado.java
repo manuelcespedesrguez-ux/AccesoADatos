@@ -1,4 +1,4 @@
-package Primer.EjerciciosPOO;
+package EjerciciosPOO;
 
 public class Empleado {
     private String nombre;
