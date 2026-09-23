@@ -4,8 +4,8 @@ public class Ejercicio1 {
     public static int cuentaPrestados(Object[] objetos) {
         int contador = 0;
         for (Object obj : objetos) {
-            if (obj instanceof Prestable) {
-                if (((Prestable) obj).estaPrestado()) {
+            if (obj instanceof Prestable prestable) {
+                if (prestable.estaPrestado()) {
                     contador++;
                 }
             }
