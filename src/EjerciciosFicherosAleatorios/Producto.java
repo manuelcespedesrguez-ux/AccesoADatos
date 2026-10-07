@@ -1,5 +1,8 @@
 package EjerciciosFicherosAleatorios;
 
+import java.io.IOException;
+import java.io.RandomAccessFile;
+
 public class Producto {
     
     private  int id;
@@ -26,6 +29,14 @@ public class Producto {
             return sebas.toString();
         }
 
+    }
+
+    public static String leerNombre(RandomAccessFile raf) throws IOException {
+        char[] chars = new char[12];
+        for (int i = 0; i < 12; i++) {
+            chars[i] = raf.readChar();
+        }
+        return new String(chars).trim(); 
     }
 
     public int getIdentificador() {
@@ -63,7 +74,7 @@ public class Producto {
     @Override
     public String toString() {
         return "FicherosAleatorios [identificador=" + id + ", nombre=" + nombre + ", existencias="
-                + existencias + ", precio=" + precio + "€]";
+                + existencias + ", precio=" + precio + "$]";
     }
 
 }
