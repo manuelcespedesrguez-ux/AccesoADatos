@@ -1,0 +1,20 @@
+NULL,Albariño de las Rías Baixas,NULL,1,Botella de 750 ml,12.50,60,12,15,0
+NULL,Vino Ribeiro blanco,NULL,1,Botella de 750 ml,9.80,48,0,12,0
+NULL,Licor café gallego,NULL,1,Botella de 700 ml,14.90,30,6,8,0
+NULL,Queixo tetilla,NULL,4,Pieza de 800 g,11.50,25,0,6,0
+NULL,Queixo de Arzúa-Ulloa,NULL,4,Pieza de 900 g,13.20,20,5,6,0
+NULL,Queixo de San Simón da Costa,NULL,4,Pieza de 1 kg,16.75,18,4,5,0
+NULL,Tarta de Santiago,NULL,3,Unidad de 700 g,15.50,15,5,4,0
+NULL,Melindres de Melide,NULL,3,Bolsa de 250 g,5.90,40,10,10,0
+NULL,Bica de Trives,NULL,3,Unidad de 500 g,8.50,22,0,6,0
+NULL,Lacón gallego,NULL,6,Pieza de 1 kg,12.90,20,5,5,0
+NULL,Chorizo gallego,NULL,6,Paquete de 500 g,6.80,45,10,12,0
+NULL,Androlla gallega,NULL,6,Pieza de 400 g,5.60,28,0,8,0
+NULL,Grelos de Galicia,NULL,7,Tarro de 500 g,4.20,50,12,15,0
+NULL,Pementos de Padrón,NULL,7,Bolsa de 500 g,3.50,35,10,10,0
+NULL,Fabas de Lourenzá,NULL,7,Bolsa de 1 kg,9.50,30,0,8,0
+NULL,Mejillones de las rías gallegas,NULL,8,Lata de 115 g,3.90,90,24,20,0
+NULL,Pulpo gallego cocido,NULL,8,Envase de 500 g,19.90,18,6,5,0
+NULL,Berberechos de las rías gallegas,NULL,8,Lata de 120 g,7.80,55,12,15,0
+NULL,Sardinillas de las rías gallegas,NULL,8,Lata de 120 g,3.20,80,20,20,0
+NULL,Navajas de las rías gallegas,NULL,8,Lata de 115 g,8.90,36,12,10,0
