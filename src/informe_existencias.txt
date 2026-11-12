@@ -1,0 +1,8 @@
+Id Nombre Precio Existencias
+1 | Chai | 18.0 | 54
+2 | Chang | 19.0 | 17
+35 | Steeleye Stout | 18.0 | 20
+38 | C�te de Blaye | 263.5 | 17
+39 | Chartreuse verte | 18.0 | 69
+43 | Ipoh Coffee | 46.0 | 17
+76 | Lakkalik��ri | 18.0 | 57
